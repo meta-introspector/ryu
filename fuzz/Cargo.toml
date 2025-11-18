@@ -22,4 +22,4 @@ path = "fuzz_targets/fuzz_ryu.rs"
 test = false
 doc = false
 
-[workspace]
+#[workspace]
